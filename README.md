@@ -10,8 +10,8 @@
 	1x LDR light sensor
 	1x DHT11/22 temperature/humidity sensor	
 	1x Soil moisture sensor
+	1x Dust sensor
 	1x Συσκευή μέτρησης έντασης και κατεύθυνσης ανέμου
 	1x Συσκευή μέτρησης βροχόπτωσης
 	1x Waterproof Temperature Sensor
-	
-	
+	1x Waterproof(?) Humidity Sensor
